@@ -3,7 +3,7 @@
 </template>
 <script>
 import { loadModules } from "esri-loader";
-import "../../assets/css/reset.css";
+import "reset-css";
 export default {
   name: "web-map",
   data() {
